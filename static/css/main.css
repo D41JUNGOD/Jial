@@ -1,0 +1,26 @@
+
+.btns{
+	height: auto;	
+	width:100%;
+}
+.cover{
+	width:20%;
+	display: inline-block;
+}
+
+#left{
+	background-color: rgb(200,200,200);
+	width:50%;
+	border: 3px solid white;
+}	
+#right{
+	background-color: rgb(200,200,200);
+	width:50%;
+	border: 3px solid white;
+}
+.btnset{
+}
+
+button{
+	font-size: 100px;
+}
